@@ -1,0 +1,28 @@
+{
+   "name": "canvas-binlibs",
+   "description": "Canvas graphics API backed by Cairo",
+   "version": "1.2.3",
+   "author": "TJ Holowaychuk <tj@learnboost.com>",
+   "contributors": [
+      "Nathan Rajlich <nathan@tootallnate.net>",
+      "Rod Vagg <r@va.gg>",
+      "Juriy Zaytsev <kangax@gmail.com>"
+   ],
+   "keywords": [
+      "canvas",
+      "graphic",
+      "graphics",
+      "pixman",
+      "cairo",
+      "image",
+      "images",
+      "pdf"
+   ],
+   "homepage": "https://github.com/learnboost/node-canvas",
+   "repository": "git://github.com/learnboost/node-canvas.git",
+   "engines": {
+      "node": ">= 0.6.0"
+   },
+   "main": "binlib/canvas_linux_ia32.node",
+   "license": "MIT"
+}
